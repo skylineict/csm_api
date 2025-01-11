@@ -1,4 +1,4 @@
-# content managmenr systme
+# content management system
 This project is a Blog Content Management System (CMS) built using FastAP
 This project is a Blog Content Management System (CMS) developed using FastAPI. It enables users to register, verify their accounts through OTP, and manage their blog posts by creating, editing, or deleting them. To enhance user interaction, the platform allows only followers of a user to view their blog posts. Users can also engage by liking posts, adding comments, and reacting to comments.
 
